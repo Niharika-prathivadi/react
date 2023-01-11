@@ -1,0 +1,43 @@
+ @import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.carousel_container{
+    margin-top: 30px;
+}
+.banner1{
+   height:500px;
+   position: relative;
+   object-fit: cover;
+   
+
+}
+.banner_content{
+    font-family: 'Gentium Book Plus', serif;
+    position:absolute;
+    color: black;
+    text-align: left;
+    background: rgba(247, 239, 239, 0.6);
+    padding: 20px;
+    bottom: 80px;
+    left: 40px;
+    width: 45%;
+    border-radius: 30px;
+
+}
+.banner_content >p{
+    
+    padding-top: 5px;
+}
+
+.banner2{
+    height: 500px;
+    object-fit: cover;
+    position: relative;
+ }
+.banner3{
+    height: 500px;
+    object-fit: cover;
+    position: relative;
+ }

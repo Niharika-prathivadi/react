@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.recipe_main{
+    margin-top: 30px;
+    margin-left: 60px;
+}
